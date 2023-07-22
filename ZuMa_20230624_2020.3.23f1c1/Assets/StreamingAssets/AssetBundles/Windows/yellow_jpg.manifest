@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3257988593
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 185d37bb8a7e81c3282f4148f0c8517a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/qiu_01.png
+Dependencies: []

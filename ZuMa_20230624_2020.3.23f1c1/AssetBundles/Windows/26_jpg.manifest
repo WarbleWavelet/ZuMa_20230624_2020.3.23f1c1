@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3136149519
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff127c1d5e45f6f8bb359ba18e2b8876
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/Bg/26.jpg
+Dependencies: []

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3615339221
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d63c3372e3c76275e240760bcd5e58f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 929d8dc52ef64818da0c515cf085b2ed
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed283a1f2d949564a81edfa8a3f1edb5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d51f3a7c41ab0346b49ae50d456bece, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/WorldSelectPanel.prefab
+Dependencies: []

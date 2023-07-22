@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 519869751
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 889665ea59d58c59bf7a7288e63e52de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03953b544bd5b574fa9be50d2e47ec5c
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: e3306f24ab5577848bdd2d2f0cd1c9b8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Map/shooter.asset
+Dependencies: []

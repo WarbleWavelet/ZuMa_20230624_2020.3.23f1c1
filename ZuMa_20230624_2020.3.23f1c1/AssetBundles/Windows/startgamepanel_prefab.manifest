@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2374161339
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f87d368eb6df3375ecf0a03e6b56a2a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dbfbaef55e0424af4528433f3f19a144
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 051e32fa282835643b7ff7cbfa956e19, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d51f3a7c41ab0346b49ae50d456bece, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/StartGamePanel.prefab
+Dependencies: []

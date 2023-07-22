@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1458259378
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e028f756c639e02e066a1974131c227
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dda481f9c8e84683649c3a3d73eb91cb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Ball.prefab
+Dependencies:
+- D:/Data/Projects/Unity/ZuMa_20230624_2020.3.23f1c1/AssetBundles/Windows/red_jpg

@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2631367415
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ca09b0d44efcc06d8dfaa4ee4f081f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ac1220046767a378334cb609d5927248
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed24d31e1a45b3347a7f98530bc8860c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3eefb043199f54d4e920eaf655730957, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15a9b47d9af23e040aac914671f2606a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f49b450e5f3ccbf46a6f32e3a7a9492b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dbaadac3950befc4c90ccd1c78c77fc8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb3dbd34c39096241b555b7e62540a78, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d51f3a7c41ab0346b49ae50d456bece, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/GamePanel.prefab
+Dependencies:
+- D:/Data/Projects/Unity/ZuMa_20230624_2020.3.23f1c1/AssetBundles/Windows/1_jpg
+- D:/Data/Projects/Unity/ZuMa_20230624_2020.3.23f1c1/AssetBundles/Windows/red_jpg

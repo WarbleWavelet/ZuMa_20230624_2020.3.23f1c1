@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1662121211
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0ccd84bc7046d200b8fd314d0f03a8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8816fc79d35ed2cf396f7509aa153667
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/DestroyFX.prefab
+Dependencies: []
